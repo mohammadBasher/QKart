@@ -1,0 +1,200 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageviewprofile"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp"
+            android:background="#CFD8DC"
+            android:src="@drawable/ic_person_white"
+            android:scaleType="centerCrop" />
+
+        <ScrollView
+            android:id="@+id/vscroll1"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="20dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:id="@+id/linear4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:background="#FFFFFF"
+                android:orientation="vertical"
+                android:alpha="0.9">
+
+                <TextView
+                    android:id="@+id/textview1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:text="Name"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#212121" />
+
+                <LinearLayout
+                    android:id="@+id/linear21"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:background="#FFCCBC"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/edittextname"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="8dp"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:hint="Enter your name"
+                        android:textColorHint="#607D8B"
+                        android:singleLine="true"
+                        android:imeOptions="actionNext" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textview2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:text="Contact"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#212121" />
+
+                <LinearLayout
+                    android:id="@+id/linear10"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:background="#FFCCBC"
+                    android:orientation="horizontal">
+
+                    <EditText
+                        android:id="@+id/edittextcontact"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="8dp"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:hint="Enter your contact"
+                        android:textColorHint="#607D8B"
+                        android:singleLine="true"
+                        android:inputType="phone"
+                        android:imeOptions="actionNext" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textview3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:text="Address"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    android:textColor="#212121" />
+
+                <LinearLayout
+                    android:id="@+id/linear11"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:background="#FFCCBC"
+                    android:orientation="vertical">
+
+                    <EditText
+                        android:id="@+id/edittextaddress1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="8dp"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:hint="House No./Road Name"
+                        android:textColorHint="#607D8B"
+                        android:singleLine="true"
+                        android:imeOptions="actionNext" />
+
+                    <EditText
+                        android:id="@+id/edittextaddress2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="8dp"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:hint="Area/City"
+                        android:textColorHint="#607D8B"
+                        android:singleLine="true"
+                        android:imeOptions="actionNext" />
+
+                    <EditText
+                        android:id="@+id/edittextaddress3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="8dp"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:hint="Landmark (optional)"
+                        android:textColorHint="#607D8B"
+                        android:singleLine="true"
+                        android:imeOptions="actionNext" />
+
+                    <EditText
+                        android:id="@+id/edittextaddress4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="8dp"
+                        android:textSize="14sp"
+                        android:textColor="#000000"
+                        android:hint="Pincode"
+                        android:textColorHint="#607D8B"
+                        android:singleLine="true"
+                        android:inputType="numberSigned"
+                        android:imeOptions="actionDone" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textviewstatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:text="Updating your current location ... "
+                    android:textSize="12sp"
+                    android:textColor="#000000" />
+
+                <com.google.android.gms.maps.MapView
+                    android:id="@+id/mapview1"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp" />
+            </LinearLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/buttondone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:padding="8dp"
+            android:background="#FF1744"
+            android:text="Done"
+            android:textSize="12sp"
+            android:textColor="#000000"
+            android:alpha="0.9" />
+    </LinearLayout>
+</LinearLayout>

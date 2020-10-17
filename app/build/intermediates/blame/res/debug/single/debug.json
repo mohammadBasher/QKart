@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_list_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_list_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_insert_comment_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_comment_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_directions_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_directions_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_arrow_down_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_down_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_mode_edit_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_mode_edit_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location_on_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_location_on_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_help.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status2.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\status2.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_remove_circle_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_remove_circle_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_done.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\done.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_back_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_forward_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_forward_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status1.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\status1.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_star.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\star.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_grade_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_grade_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_insert_chart_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_chart_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_circle_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_circle_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_more_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_minus.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\minus.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_announcement_grey.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_announcement_grey.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_grey.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_search_grey.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_back_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_shopping_cart_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_shopping_cart_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_now_widgets_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_now_widgets_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_newqkart.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\newqkart.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rotate_right_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_rotate_right_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check_circle_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_circle_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account_circle_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_account_circle_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_plus.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_orderplaced.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\orderplaced.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_groceries.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\groceries.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_outline_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_info_outline_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_editdetails.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\editdetails.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_keyboard_arrow_up_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_keyboard_arrow_up_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_shops.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\shops.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_image.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\default_image.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_blank.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\blank.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_loupe_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_loupe_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_grocery_store_grey.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_local_grocery_store_grey.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_loading.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\loading.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status4.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\status4.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_local_phone_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_local_phone_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_slist.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\slist.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_imagewall.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\imagewall.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_orders.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\orders.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_items.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\items.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_person_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_authenticate.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\authenticate.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_insert_invitation_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_insert_invitation_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_orderdetails.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\orderdetails.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_shoppinglist.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\shoppinglist.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_myorders.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\myorders.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_shopping_cart_white.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_shopping_cart_white.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\img.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status3.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\status3.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_manageitems.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\manageitems.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_shopicon.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\shopicon.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hexagone1.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\hexagone1.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check_circle_grey.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_circle_grey.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_newwall.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\newwall.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_account.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\account.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_icon.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_status0.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\status0.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_check_circle_black.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_circle_black.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_newlogo.png.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\drawable-xhdpi\\newlogo.png"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\QKart\\app\\build\\intermediates\\res\\merged\\debug\\layout_mycart.xml.flat",
+        "source": "D:\\Projects\\AndroidStudio\\QKart\\app\\src\\main\\res\\layout\\mycart.xml"
+    }
+]

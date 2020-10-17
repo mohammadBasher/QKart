@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:alpha="0.9">
+
+        <LinearLayout
+            android:id="@+id/linear1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textviewitemname"
+                android:focusable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="Item name"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:textColor="#FF1744"
+                android:layout_weight="1" />
+
+            <ImageView
+                android:id="@+id/imageviewstar"
+                android:focusable="false"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/star"
+                android:scaleType="centerCrop"
+                android:scaleX="0.5"
+                android:scaleY="0.5" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textview3"
+                android:focusable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="₹"
+                android:textSize="12sp"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/textviewitemprice"
+                android:focusable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="0"
+                android:textSize="12sp"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/textviewitemmrp"
+                android:focusable="false"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:text="0"
+                android:textSize="12sp"
+                android:textColor="#78909C"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:id="@+id/linearop1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="5dp"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/imageviewminus"
+                    android:focusable="false"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginLeft="5dp"
+                    android:src="@drawable/minus"
+                    android:scaleType="centerCrop" />
+
+                <TextView
+                    android:id="@+id/textviewqty"
+                    android:focusable="false"
+                    android:layout_width="30dp"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="2dp"
+                    android:paddingTop="5dp"
+                    android:paddingRight="2dp"
+                    android:paddingBottom="5dp"
+                    android:gravity="center_horizontal"
+                    android:text="0"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="#FF1744" />
+
+                <ImageView
+                    android:id="@+id/imageviewplus"
+                    android:focusable="false"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:layout_marginRight="5dp"
+                    android:src="@drawable/plus"
+                    android:scaleType="centerCrop" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textviewdetail"
+            android:focusable="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:padding="5dp"
+            android:text="Detail"
+            android:textSize="12sp"
+            android:textColor="#607D8B" />
+    </LinearLayout>
+</LinearLayout>
