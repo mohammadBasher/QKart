@@ -1,4 +1,4 @@
-package com.ujjwalkumar.qkart;
+package com.ujjwalkumar.qkart.util;
 
 import android.content.Context;
 import android.util.SparseBooleanArray;

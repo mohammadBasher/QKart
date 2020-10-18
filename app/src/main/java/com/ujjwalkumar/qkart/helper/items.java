@@ -1,4 +1,4 @@
-package com.ujjwalkumar.qkart;
+package com.ujjwalkumar.qkart.helper;
 
 public class items {
     private String detail;

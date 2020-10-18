@@ -1,4 +1,4 @@
-package com.ujjwalkumar.qkart;
+package com.ujjwalkumar.qkart.util;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;

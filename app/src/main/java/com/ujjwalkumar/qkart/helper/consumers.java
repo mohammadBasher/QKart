@@ -1,6 +1,6 @@
-package com.ujjwalkumar.qkart;
+package com.ujjwalkumar.qkart.helper;
 
-public class sellers {
+public class consumers {
     private String address;
     private String contact;
     private String email;
@@ -9,7 +9,6 @@ public class sellers {
     private String lng;
     private String name;
     private String uid;
-    private String range;
 
     public String getAddress() {
         return address;
@@ -73,13 +72,5 @@ public class sellers {
 
     public void setUid(String uid) {
         this.uid = uid;
-    }
-
-    public String getRange() {
-        return range;
-    }
-
-    public void setRange(String range) {
-        this.range = range;
     }
 }

@@ -28,6 +28,7 @@ import com.google.android.gms.maps.MapView;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import com.ujjwalkumar.qkart.util.GoogleMapController;
 
 import java.util.ArrayList;
 import java.util.HashMap;
