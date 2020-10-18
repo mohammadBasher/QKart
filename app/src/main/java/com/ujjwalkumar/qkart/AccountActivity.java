@@ -30,7 +30,6 @@ import java.util.Random;
 
 public class AccountActivity extends AppCompatActivity {
 
-
     private LinearLayout linearinfo;
     private LinearLayout linearedit;
     private TextView textviewsignout;

@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.graphics.Color;
+import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -29,6 +30,8 @@ import androidx.core.content.ContextCompat;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.MapView;
 import com.google.android.gms.maps.OnMapReadyCallback;
+import com.google.android.gms.maps.model.LatLng;
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
@@ -41,7 +44,6 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.GenericTypeIndicator;
 import com.ujjwalkumar.qkart.util.GoogleMapController;
 import com.ujjwalkumar.qkart.util.SketchwareUtil;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
@@ -57,7 +59,6 @@ public class EditdetailsActivity extends AppCompatActivity {
     private double lng = 0;
     private HashMap<String, Object> mp = new HashMap<>();
     private boolean mapReady = false;
-
     private ImageView imageviewprofile;
     private Button buttondone;
     private LinearLayout linear4;
@@ -118,7 +119,6 @@ public class EditdetailsActivity extends AppCompatActivity {
         textviewstatus = (TextView) findViewById(R.id.textviewstatus);
         mapview1 = (MapView) findViewById(R.id.mapview1);
         mapview1.onCreate(_savedInstanceState);
-
         edittextname = (EditText) findViewById(R.id.edittextname);
         edittextcontact = (EditText) findViewById(R.id.edittextcontact);
         edittextaddress1 = (EditText) findViewById(R.id.edittextaddress1);
@@ -176,6 +176,28 @@ public class EditdetailsActivity extends AppCompatActivity {
             public void onMapReady(GoogleMap _googleMap) {
                 _mapview1_controller.setGoogleMap(_googleMap);
                 mapReady = true;
+//                _mapview1_controller.addMarker("id", 28.644800, 77.216721);
+//
+//                _googleMap.setOnMarkerDragListener(new GoogleMap.OnMarkerDragListener() {
+//                    @Override
+//                    public void onMarkerDragStart(Marker marker) {
+//                    }
+//
+//                    @Override
+//                    public void onMarkerDrag(Marker marker) {
+//                    }
+//
+//                    @Override
+//                    public void onMarkerDragEnd(Marker marker) {
+//                        LatLng latLng = marker.getPosition();
+//                        Geocoder geocoder = new Geocoder(this, Locale.getDefault());
+//                        try {
+//                            android.location.Address address = geocoder.getFromLocation(latLng.latitude, latLng.longitude, 1).get(0);
+//                        } catch (IOException e) {
+//                            e.printStackTrace();
+//                        }
+//                    }
+//                });
             }
         });
 
@@ -302,6 +324,20 @@ public class EditdetailsActivity extends AppCompatActivity {
         mapReady = false;
         if (ContextCompat.checkSelfPermission(EditdetailsActivity.this, Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
             locate.requestLocationUpdates(LocationManager.GPS_PROVIDER, 60000, 10, _locate_location_listener);
+
+            Criteria criteria = new Criteria();
+            String bestProvider = locate.getBestProvider(criteria, true);
+            Location location = locate.getLastKnownLocation(bestProvider);
+            if (location == null) {
+                SketchwareUtil.showMessage(getApplicationContext(),"Please check your GPS");
+            }
+            if (location != null) {
+                lat = location.getLatitude();
+                lng = location.getLongitude();
+                textviewstatus.setText("Location updated");
+                _setLoc(lat, lng);
+                locate.removeUpdates(_locate_location_listener);
+            }
         }
         edittextname.setText(sp1.getString("name", ""));
         edittextcontact.setText(sp1.getString("contact", ""));
